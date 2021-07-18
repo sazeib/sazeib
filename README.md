@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sazeib
 - 👀 I’m interested in Python and Data Science.   
 - 🌱 I’m currently learning Data Science using Python. 
-- 💞️ I’m looking to collaborate on Data Sceince projects for medical diagnosis or any sort of medical research projects. 
+- 💞️ I’m looking to collaborate on Data Science projects for medical diagnosis or any sort of medical research projects. 
 - 📫 How to reach me: email to sazeib@gmail.com
 
 <!---
